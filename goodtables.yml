@@ -1,3 +1,0 @@
-files:
-  - source: PatientDataTest.xlsx
-    schema: schemaPatient.json
