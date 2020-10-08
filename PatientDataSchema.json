@@ -20,7 +20,8 @@
             "type": "number",
             "description": "Transaction value in Euros",
             "constraints": {
-              "minimum": 0
+              "minimum": 1,
+              "maximum": 100
             }
           }
         ]
