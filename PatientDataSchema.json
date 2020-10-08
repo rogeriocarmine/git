@@ -3,7 +3,7 @@
           {
             "name": "date",
             "type": "date",
-            "format":"dd/mm/yyyy", 
+            "format":"DD/MM/YYYY", 
             "description": "The transaction date"
           },
           {
