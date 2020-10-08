@@ -1,3 +1,3 @@
 files:
-  - source: PatientDataTest.xls
+  - source: PatientDataTest.xlsx
     schema: schemaPatient.json
