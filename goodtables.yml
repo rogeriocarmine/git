@@ -1,0 +1,3 @@
+files:
+  - source: PatientDataTest.csv
+    schema: PatientDataSchema.json
