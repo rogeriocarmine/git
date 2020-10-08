@@ -1,0 +1,10 @@
+{
+  "name": "my-dataset",
+  "title": "My dataset",
+  "resources": [
+    {
+      "name": "patient-data",
+      "path": "PatientDataTest.xlsx"
+    }
+  ]
+}
